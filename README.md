@@ -20,3 +20,7 @@ e.g. `./run.sh github.py`
 $ docker build -t test .
 $ docker run test
 ```
+
+## Contributing
+
+Pull requests are suggested but not required
